@@ -40,5 +40,6 @@ int main()
     printf("enter your name:");
     scanf("%s",name);
     printf("your name is: %s\nand you are %d Years old\n",name ,num);
+    printf("also %d blind mice.\n",3);
     return 0;
 }
